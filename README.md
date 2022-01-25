@@ -1,2 +1,2 @@
 # sungjinIm.github.io
-# 학습 블로그
+# 블로그
